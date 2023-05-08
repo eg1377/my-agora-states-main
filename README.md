@@ -4,9 +4,17 @@
 
 
 변경한 CSS 적용 
-https://user-images.githubusercontent.com/105766506/236856704-a14a8dee-01b3-45fc-884b-461742f1f838.mov
+
+
+
+https://user-images.githubusercontent.com/105766506/236857235-9680ef09-fcfe-46f8-b720-8f4a04b5cb4a.mov
+
 
 
 변경전 CSS 적용 
-https://user-images.githubusercontent.com/105766506/236856774-cece5ab2-44f8-4a78-ba54-f0cfc42f11c9.mov
+
+
+
+
+https://user-images.githubusercontent.com/105766506/236857197-f2372b83-03c3-45a4-b2ac-dcc8f0103b06.mov
 
